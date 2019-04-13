@@ -77,7 +77,7 @@ vue init webpack  demo
 - 安装项目所需要的依赖：npm install
 - 启动项目：npm run dev
 
-启动成功，浏览器打开：localhost:8080，即可看到vue项目。
+启动成功，浏览器打开：http://localhost:8080，即可看到vue项目。
 
 
 ### 目录说明,可看项目路径下图片：
