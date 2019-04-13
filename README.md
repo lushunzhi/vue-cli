@@ -80,6 +80,6 @@ vue init webpack  demo
 启动成功，浏览器打开：localhost:8080，即可看到vue项目。
 
 
-### 目录说明,项目路径：
+### 目录说明,可看项目路径下图片：
 - image/vue目录说明.png
 - image/package.json说明.png
