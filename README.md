@@ -1,7 +1,7 @@
-### 创建vue项目：
-在程序开发中，有三种方式创建vue项目：
+### vue项目：
+在程序开发中，有三种方式使用vue：
 - 本地引入vuejs,下载vue.js文件
-- 使用cdn引入vuejs,cdn引入vue.js
+- 使用cdn引入vuejs,cdn引入vue.js;  [github学习地址](https://github.com/lushunzhi/vue-project.git)
 - 使用vue-cli创建vue项目。其中vue-cli可以结合webpack打包工具使用，大大方便了开发步骤，使用广泛。
 
 ### 项目说明：
