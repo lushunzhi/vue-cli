@@ -81,5 +81,5 @@ vue init webpack  demo
 
 
 ### 目录说明：
-- [vue目录结构](https://segmentfault.com/img/bV7O8b?w=461&h=620);或者项目中：image/vue目录说明.png
-- [package.json目录结构](https://segmentfault.com/img/bV7O84?w=554&h=378);或者项目：image/package.json说明.png
+- vue目录结构:"https://segmentfault.com/img/bV7O8b?w=461&h=620";或者项目中：image/vue目录说明.png
+- package.json目录结构:"https://segmentfault.com/img/bV7O84?w=554&h=378";或者项目：image/package.json说明.png
