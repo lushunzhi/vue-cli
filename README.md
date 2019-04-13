@@ -9,7 +9,8 @@
 1. nodejs安装：
 ```
 1.下载链接：node.js官网(https://nodejs.org/en/) 下载并安装node
-2.你可以根据不同平台系统选择你需要的Node.js安装包，输入node -v 命令，查看node的版本，若出现相应的版本号，则说明你安装成功（安装了node也就有了npm,直接输入 npm -v 命令，显示npm的版本信息）
+2.你可以根据不同平台系统选择你需要的Node.js安装包，输入node -v 命令，查看node的版本，
+  若出现相应的版本号，则说明你安装成功（安装了node也就有了npm,直接输入 npm -v 命令，显示npm的版本信息）
 ```
 2. cnpm安装：
 ```
