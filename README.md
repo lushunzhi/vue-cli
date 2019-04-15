@@ -20,6 +20,12 @@
 3. 安装vue-cli
 ```
 npm install -g vue-cli / cnpm i -g vue-cli
+(注意：vue3.0之后安装命令不同：
+npm install -g @vue/cli / cnpm i -g @vue/cli
+
+如果安装3.0之前安装了2.0的版本,需要卸载：
+npm uninstall -g vue-cli
+)
 安装结束之后，使用vue -v查看vue的版本。
 ```
 ```
